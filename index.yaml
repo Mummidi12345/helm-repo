@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  satya:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-06T04:01:11.14786973Z"
+    description: A Helm chart for Kubernetes
+    digest: 82946b63754bae5955b67d65806452b932bbecf51ff2966709662c4f9e22e5c5
+    name: satya
+    type: application
+    urls:
+    - satya-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-06T04:01:11.147166324Z"
